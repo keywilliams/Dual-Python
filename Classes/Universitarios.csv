@@ -1,0 +1,289 @@
+Codigo de Aluno;Apelido;Nome;MI;Programa;CodProg;Curso;Classe;FT/PT ;Sexo;Residencia
+9999100;Kawamoto;Motonari;;Arts & Sciences Undergrad;BL-BI;Biology;Senior;Full time;male;In State
+9999101;Niwa;Romi;;Arts & Sciences Undergrad;BL-GEOL;Geology;Senior;Full time;female;In State
+9999102;Echevarr�a Agosto;Raffi;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Part time;male;Out of State
+9999103;Cruz Alanis;Jasper;;Music Graduate;BL-MUS;Music;Masters;Full time;male;Out of State
+9999104;Martinez;Mary;A;Education -GrSch;BL-EDUC;Education;Doctorate;Full time;female;Intl
+9999105;Cotto Alfaro;Bernab�;;Journalism Undergraduate;BL-JOUR;Journalism;Senior;Full time;male;Out of State
+9999106;Valles Amador;Jeny;;Optometry Professional;BL-OPT;Optometry;Professional Fourth ;Full time;female;Out of State
+9999107;Rainey;David;C;University Div Pre-Busine;BL-BUS;Business;Senior;Part time;male;Intl
+9999108;Barraza Anguiano;Lorujama;;University Div Undergradu;BL-UDIV;University Division;Sophomore;Full time;female;Out of State
+9999109;Nemoto;Haruna;;Education Undergraduate;BL-EDUC;Education;Junior;Full time;female;In State
+9999110;Abe;Osami;;Arts & Sciences Undergrad;BL-AMID;Apparel Merch/Int De;Senior;Full time;male;In State
+9999111;Lozano Aranda;Amilcar;;Arts & Sciences Undergrad;BL-EALC;East Asian Lang & Cu;Junior;Part time;male;Out of State
+9999112;Alva Arce;Romelio;;University Div Pre-Educat;BL-EDUC;Education;Senior;Full time;male;Out of State
+9999113;Mu�oz Arce;Aurea;;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Sophomore;Full time;female;Out of State
+9999114;Hern�ndez Arteaga;Zuleica;;Arts & Sciences Undergrad;BL-FINA;Fine Arts;Junior;Full time;female;Out of State
+9999115;Woosley;Rebecca;J;University Div Pre-CollAr;BL-BI;Biology;Sophomore;Full time;female;Intl
+9999116;Asai;Kiyotaka;;Journalism Undergraduate;BL-JOUR;Journalism;Junior;Full time;male;In State
+9999117;Takaki;Rieka;;Education Undergraduate;BL-EDUC;Education;Junior;Full time;female;In State
+9999118;Vicente;David;R;Music Undergraduate;BL-MUS;Music;Junior;Full time;male;Intl
+9999119;Cordova Avil�s;Nasha;;Arts & Sciences Undergrad;BL-CJUS;Criminal Justice-Coa;Junior;Full time;female;Out of State
+9999120;Shaw;Richard;L;Arts & Sciences Undergrad;BL-BI;Biology;Junior;Full time;male;Intl
+9999121;Tyler;Ella;B;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;Intl
+9999122;Riddick;Robert;M;Informatics Undergraduate;BL-INFO;Informatics;Junior;Part time;male;Intl
+9999123;Hurtado Barela;Dunstano;;Arts & Sciences Undergrad;BL-PSY;Psychology;Senior;Full time;male;Out of State
+9999124;Wester;Lisa;G;Business Undergraduate;BL-BUS;Business;Junior;Full time;female;Intl
+9999125;Hardin;Lucien;R;Arts & Sciences Undergrad;BL-PSY;Psychology;Senior;Full time;male;Intl
+9999126;Chang;Jacob;G;Arts & Sciences Undergrad;BL-FINA;Fine Arts;Senior;Part time;male;Intl
+9999127;Cerv�ntez Benavidez;Jovianne;;Education Undergraduate;BL-EDUC;Education;Senior;Full time;female;Out of State
+9999128;Connors;April;K;Continuing Stdy Urgd Nond;BL-SCS;School Of Continuing;Undergrad Special;Part time;female;Intl
+9999129;Vasquez;Geraldine;W;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;Intl
+9999130;Lucas;Julio;D;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Intl
+9999131;Hughes;Peter;C;Arts & Sciences Undergrad;BL-TELC;Telecommunications;Senior;Full time;male;Intl
+9999132;Rosales;Helen;R;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Sophomore;Full time;female;Intl
+9999133;Monnin;Carl;B;Arts & Sciences Undergrad;BL-FINA;Fine Arts;Sophomore;Full time;male;Intl
+9999134;Peachey;Byron;J;Arts & Sciences Undergrad;BL-BI;Biology;Junior;Part time;male;Intl
+9999135;Henderson;Lydia;A;MBA Program;BL-BUS;Business;Masters;Full time;female;Intl
+9999136;Fernandez;Arthur;D;Business Acctg Grad Progr;BL-BUS;Business;Masters;Full time;male;Intl
+9999137;Newman;Bradley;J;University Div Pre-CollAr;BL-AMID;Apparel Merch/Int De;Sophomore;Full time;male;Intl
+9999138;Fuller;Jason;Q;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Intl
+9999139;Zavala Briones;Barlaan;;University Div Pre-CollAr;BL-EALC;East Asian Lang & Cu;Sophomore;Part time;male;Out of State
+9999140;Marchant;Kurt;J;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;male;Intl
+9999141;Cordle;Martha;C;University Div Pre-Educat;BL-EDUC;Education;Sophomore;Full time;female;Intl
+9999142;Gracia Bueno;Quimey;;Arts & Sciences Undergrad;BL-BI;Biology;Senior;Full time;male;Out of State
+9999143;Jordan;Robert;D;Arts & Sciences Undergrad;BL-AMID;Apparel Merch/Int De;Junior;Full time;male;Intl
+9999144;Dean;Juan;N;Education Undergraduate;BL-EDUC;Education;Senior;Full time;male;Intl
+9999145;Stratz;Gertrude;C;University Div Undergradu;BL-UDIV;University Division;Sophomore;Part time;female;Intl
+9999146;Pab�n Cab�n;Iguazel;;University Div Pre-Educat;BL-EDUC;Education;Sophomore;Full time;female;Out of State
+9999147;Montez Campos;Alem;;Arts & Sciences Undergrad;BL-FINA;Fine Arts;Junior;Full time;male;Out of State
+9999148;Portillo Cano;Natan;;University Div Undergradu;BL-UDIV;University Division;Sophomore;Full time;male;Out of State
+9999149;Godfrey;Shannon;I;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;female;Intl
+9999150;Huff;Scott;K;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Intl
+9999151;Black;Billy;M;Arts & Sciences Undergrad;BL-MATH;Mathematics;Junior;Part time;male;Intl
+9999152;Mat�as Castellanos;Vittorio;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Junior;Full time;male;Out of State
+9999153;Goolsby;Ora;M;Arts & Sciences Undergrad;BL-ANTH;Anthropology;Junior;Full time;female;Intl
+9999154;Jackson;Mindy;G;Arts & Sciences Undergrad;BL-BI;Biology;Junior;Full time;female;Intl
+9999155;Armijo Cazares;Valderrama;;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Sophomore;Full time;male;Out of State
+9999156;Caldera Ceballos;Teseo;;Arts & Sciences Undergrad;BL-CMCL;Communication & Cult;Junior;Full time;male;Out of State
+9999157;Amador Cedillo;Bela;;University Div Pre-CollAr;BL-ARSC;College of Arts & Sc;Sophomore;Full time;female;Out of State
+9999158;Foreman;James;E;University Div Pre-CollAr;BL-POLS;Political Science;Sophomore;Full time;male;Intl
+9999159;Binette;Daniel;R;Law Professional;BL-LAWS;Law;Professional Fourth ;Full time;male;Intl
+9999160;Ma;An;;Arts & Sciences Undergrad;BL-POLS;Political Science;Senior;Full time;female;In State
+9999161;Pan;Cui;;Near Eastern Lang & Cult-;BL-NELC;Near Eastern Lang & ;Masters;Part time;female;In State
+9999162;Hs�;Ping;;University Div Pre-CollAr;BL-BI;Biology;Sophomore;Part time;female;In State
+9999163;Jen;Chang;;Arts & Sciences Undergrad;BL-PSY;Psychology;Junior;Full time;female;In State
+9999164;Yao;Shi;;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Sophomore;Part time;male;In State
+9999165;K'ung;Yue Wan;;University Div Pre-SPEA;BL-GEOL;Geology;Junior;Full time;female;In State
+9999166;Hou;Lian;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Part time;male;In State
+9999167;Niita;Ikkei;;Education Undergraduate;BL-EDUC;Education;Junior;Full time;male;In State
+9999168;Kelly;Gloria;J;University Div Pre-CollAr;BL-THTR;Theatre & Drama;Freshman;Full time;female;Intl
+9999169;Wu;Dewei;;University Div Pre-Dental;BL-DENT;Dentistry;Sophomore;Part time;male;In State
+9999170;Liang;Yue Yan;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;female;In State
+9999171;Smith;Dudley;B;Arts & Sciences Undergrad;BL-PSY;Psychology;Junior;Full time;male;Intl
+9999172;Ferro;Susan;J;Pub & Envir Aff Undergrad;BL-SPEA;Public And Envir Aff;Junior;Full time;female;Intl
+9999173;Perkins;Mitchell;M;University Div Pre-CollAr;BL-ARSC;College of Arts & Sc;Sophomore;Full time;male;Intl
+9999174;Rold�n Collado;Sigfrido;;Arts & Sciences Undergrad;BL-THTR;Theatre & Drama;Junior;Full time;male;Out of State
+9999175;Lerma Collazo;Davor;;Arts & Sciences Undergrad;BL-BI;Biology;Senior;Full time;male;Out of State
+9999176;Hoppenstedt;Alberto;E;Arts & Sciences Undergrad;BL-ENG;English;Junior;Full time;male;Intl
+9999177;Inman;Martha;J;Journalism Undergraduate;BL-JOUR;Journalism;Senior;Full time;female;Intl
+9999178;Murrah;Ruth;R;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;Intl
+9999179;Urr�tia Col�n;Umberto;;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Out of State
+9999180;Thibodeaux;Diana;G;Continuing Stdy Undergrad;BL-SCS;School Of Continuing;Sophomore;Full time;female;Intl
+9999181;Abrams;Laura;R;University Div Pre-SPEA;BL-SPEA;Public And Envir Aff;Junior;Full time;female;Intl
+9999182;Harris;Mathew;;Education Undergraduate;BL-EDUC;Education;Senior;Part time;male;Intl
+9999183;Olmos Covas;Di�medes;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;male;Out of State
+9999184;Childers;Corinne;S;Music Grad Diploma Progra;BL-MUS;Music;Certificate Grad;Full time;female;Intl
+9999185;Owens;Maria;J;MBA Program;BL-BUS;Business;Masters;Full time;female;Intl
+9999186;Urwin;Marie;S;Pub & Envir Aff Undergrad;BL-SPEA;Public And Envir Aff;Junior;Full time;female;Intl
+9999187;Gibson;Bridgett;J;Business Undergraduate;BL-BUS;Business;Senior;Full time;female;Intl
+9999188;Oike;Takumi;;Arts & Sciences Undergrad;BL-ENG;English;Senior;Full time;male;In State
+9999189;Miyabara;Ayato;;Arts & Sciences Undergrad;BL-BI;Biology;Senior;Full time;male;In State
+9999190;Thomas;Travis;M;Arts & Sciences Undergrad;BL-MATH;Mathematics;Senior;Full time;male;Intl
+9999191;Brown;Ashley;L;Arts & Sciences Undergrad;BL-BI;Biology;Junior;Full time;male;Intl
+9999192;Wine;Lorraine;W;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;Intl
+9999193;Nguyen;Lucia;H;Arts & Sciences Undergrad;BL-TELC;Telecommunications;Junior;Full time;female;Intl
+9999194;Stone;Lori;M;Law Professional;BL-LAWS;Law;Professional Fourth ;Full time;female;Intl
+9999195;Hinds;Audra;J;Education Undergraduate;BL-EDUC;Education;Senior;Full time;female;Intl
+9999196;Due�as Delgado;Juvencia;;Informatics Undergraduate;BL-INFO;Informatics;Junior;Full time;female;Out of State
+9999197;Santill�n Delgado;Raimon;;Arts & Sciences Undergrad;BL-MATH;Mathematics;Senior;Full time;male;Out of State
+9999198;Pantoja Dom�nguez;Tania;;University Div Pre-CollAr;BL-AMID;Apparel Merch/Int De;Freshman;Full time;female;Out of State
+9999199;Bender;George;R;Business Acctg Grad Progr;BL-BUS;Business;Masters;Full time;male;Intl
+9999200;Guevara Echevarr�a;Lewis;;Arts & Sciences Undergrad;BL-ENG;English;Senior;Full time;male;Out of State
+9999201;Shaw;Linwood;M;Arts & Sciences Undergrad;BL-TELC;Telecommunications;Junior;Full time;male;Intl
+9999202;Nolte;Cristie;L;Arts & Sciences Undergrad;BL-INMP;Individualized Major;Senior;Full time;female;Intl
+9999203;Salinas Escamilla;Emperatriz;;Arts & Sciences Undergrad;BL-TELC;Telecommunications;Senior;Full time;female;Out of State
+9999204;Moreno Escobar;Lionela;;Business Undergraduate;BL-BUS;Business;Junior;Full time;female;Out of State
+9999205;Ortiz Espinal;Eur�dice;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;female;Out of State
+9999206;Chou;Xue;;Optometry Professional;BL-OPT;Optometry;Professional Third Y;Full time;female;In State
+9999207;Toombs;Jonathan;E;Business Undergraduate;BL-BUS;Business;Junior;Full time;male;Intl
+9999208;Cutler;Michele;E;Business Undergraduate;BL-BUS;Business;Sophomore;Full time;female;Intl
+9999209;Richardson;Joseph;B;Education Undergraduate;BL-EDUC;Education;Senior;Full time;male;Intl
+9999210;Gangell;Ethan;L;Arts & Sciences Undergrad;BL-TELC;Telecommunications;Senior;Full time;male;Intl
+9999211;Ts'ao;Zhen;;Arts & Sciences Undergrad;BL-PSY;Psychology;Senior;Full time;male;In State
+9999212;Ch'en;Lee;;Informatics Undergraduate;BL-INFO;Informatics;Senior;Full time;female;In State
+9999213;Hu;Jing;;Arts & Sciences Undergrad;BL-ENG;English;Junior;Full time;female;In State
+9999214;Aizawa;Chisano;;Spanish & Portuguese -GrS;BL-SPAN;Spanish;Masters;Full time;female;In State
+9999215;Yamashita;Tomoyo;;University Div Pre-SPEA;BL-SPEA;Public And Envir Aff;Sophomore;Full time;female;In State
+9999216;Miyashita;Keiya;;Continuing Stdy Undergrad;BL-SCS;School Of Continuing;Freshman;Full time;male;In State
+9999217;Solorio Galarza;Gianluca;;Arts & Sciences Undergrad;BL-ANTH;Anthropology;Junior;Full time;male;Out of State
+9999218;Rael Gallegos;Ale;;Journalism Undergraduate;BL-JOUR;Journalism;Junior;Full time;female;Out of State
+9999219;Ceja Garica;Herm�genes;;Health, PE & Rec Graduate;BL-HPER;Health, Phys Ed, & R;Masters;Part time;male;Out of State
+9999220;Tamayo Gastelum;Reginaldo;;Arts & Sciences Undergrad;BL-SPHS;Speech & Hearing Sci;Junior;Full time;male;Out of State
+9999221;Griego;Jarrod;C;Pub & Envir Aff Graduate;BL-SPEA;Public And Envir Aff;Masters;Part time;male;Intl
+9999222;Wilds;Ray;;University Div Pre-CollAr;BL-SOC;Sociology;Sophomore;Full time;male;Intl
+9999223;Patton;Mario;B;University Div Pre-CollAr;BL-TELC;Telecommunications;Sophomore;Full time;male;Intl
+9999224;Hudson;Robert;A;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;male;Intl
+9999225;Martin;Lonnie;;Library & Info Sci Grad N;BL-SLIS;Library & Informatio;Grad Special;Part time;male;Intl
+9999226;Mulkey;Jeffrey;D;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;male;Intl
+9999227;Veitenheimer;Lynn;M;Continuing Stdy Undergrad;BL-SCS;School Of Continuing;Associate Sophomore;Part time;female;Intl
+9999228;Bueno Guerrero;Raymi;;Chemistry -GrSch;BL-CHEM;Chemistry;Doctorate;Full time;male;Out of State
+9999229;Portillo Guzm�n;Argentino;;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Out of State
+9999230;Ch'iu;Chen;;Education Undergraduate;BL-EDUC;Education;Senior;Full time;male;In State
+9999231;Riffle;Hilaria;B;Business Undergraduate;BL-BUS;Business;Senior;Full time;female;Intl
+9999232;Kahoun;Fidel;M;Music Grad -GrSchool;BL-MUS;Music;Doctorate;Full time;male;Intl
+9999233;Meza;Robert;J;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Sophomore;Full time;male;Intl
+9999234;Okamoto;Ayu;;Music Graduate;BL-MUS;Music;Doctorate;Part time;female;In State
+9999235;Holm;Carol;R;Business Undergraduate;BL-BUS;Business;Sophomore;Full time;female;Intl
+9999236;Rudy;Joseph;C;Journalism Undergraduate;BL-JOUR;Journalism;Junior;Full time;male;Intl
+9999237;Chien;Wen;;Arts & Sciences Undergrad;BL-CSCI;Computer Science;Junior;Full time;male;In State
+9999238;Hsiao;Jin;;Library & Info Sci Gradua;BL-SLIS;Library & Informatio;Masters;Full time;female;In State
+9999239;Sun;Huan Yue;;Business Undergraduate;BL-BUS;Business;Junior;Full time;female;In State
+9999240;Pagan Hern�dez;Adriana;;Pub & Envir Aff Undergrad;BL-SPEA;Public And Envir Aff;Senior;Full time;female;Out of State
+9999241;Vigil Hern�dez;Emigdio;;Business Undergraduate;BL-BUS;Business;Junior;Full time;male;Out of State
+9999242;Ruff;Mamie;R;Continuing Stdy Urgd Nond;BL-SCS;School Of Continuing;Undergrad Special;Full time;female;Intl
+9999243;Delorme;Margaret;J;Business Undergraduate;BL-BUS;Business;Junior;Full time;female;Intl
+9999244;Mclemore;Nancy;T;Arts & Sciences Undergrad;BL-POLS;Political Science;Senior;Part time;female;Intl
+9999245;Pittman;Raymond;C;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Intl
+9999246;Martin;Jesse;W;University Div Pre-CollAr;BL-POLS;Political Science;Sophomore;Full time;male;Intl
+9999247;Mann;Anthony;V;Arts & Sciences Undergrad;BL-TELC;Telecommunications;Sophomore;Full time;male;Intl
+9999248;Hernandez;Betty;C;Business Undergraduate;BL-BUS;Business;Senior;Full time;female;Intl
+9999249;Scheerer;Rebecca;T;Education Undergraduate;BL-EDUC;Education;Junior;Full time;female;Intl
+9999250;Sumner;Roger;M;Business Undergraduate;BL-BUS;Business;Junior;Full time;male;Intl
+9999251;Wilson;Darrel;L;Pub & Envir Aff Graduate;BL-SPEA;Public And Envir Aff;Masters;Full time;male;Intl
+9999252;Pan;Li Wei;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;female;In State
+9999253;Chao;Chan;;University Div Undergradu;BL-UDIV;University Division;Sophomore;Full time;female;In State
+9999254;Chiang;Rong;;Pub & Envir Aff Undergrad;BL-SPEA;Public And Envir Aff;Senior;Full time;female;In State
+9999255;Tang;Li;;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;In State
+9999256;Lung;Bo;;Arts & Sciences Undergrad;BL-CHEM;Chemistry;Senior;Full time;female;In State
+9999257;Sung;Chan;;Linguistics -GrSch;BL-LING;Linguistics;Doctorate;Part time;male;In State
+9999258;He;Jun;;Law Professional;BL-LAWS;Law;Professional Fourth ;Full time;male;In State
+9999259;Yin;An;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;In State
+9999260;Lin;Yue Ying;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;In State
+9999261;Tsou;Ye;;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;In State
+9999262;Tao;Kuan-Yin;;Arts & Sciences Urgd Nond;BL-ARSC;College of Arts & Sc;Undergrad Special;Full time;male;In State
+9999263;Kung;Yue You;;University Div Pre-Educat;BL-EDUC;Education;Sophomore;Full time;female;In State
+9999264;Chin;Jin;;Business Undergraduate;BL-BUS;Business;Junior;Part time;female;In State
+9999265;Rogers;Anthony;L;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Intl
+9999266;Ortiz;Fernando;E;Music Undergraduate;BL-MUS;Music;Senior;Full time;male;Intl
+9999267;Grillo;Eugene;D;Arts & Sciences Undergrad;BL-CHEM;Chemistry;Junior;Full time;male;Intl
+9999268;Sun;Shing;;Business Undergraduate;BL-BUS;Business;Junior;Full time;male;In State
+9999269;Fan;Guan-yin;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Part time;female;In State
+9999270;Tsai;Bi;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;In State
+9999271;Tai;Cheng;;University Div Pre-Busine;BL-BUS;Business;Junior;Full time;male;In State
+9999272;Bouzuki;Serino;;Arts & Sciences Undergrad;BL-BI;Biology;Senior;Full time;female;In State
+9999273;Mori;Nao;;University Div Pre-CollAr;BL-INTL;International Studie;Sophomore;Full time;female;In State
+9999274;Fujikawa;Shinsuke;;Journalism Undergraduate;BL-JOUR;Journalism;Senior;Full time;male;In State
+9999275;Hostetter;James;J;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Intl
+9999276;Miyata;Saaya;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;female;In State
+9999277;Sugihara;Shiyomi;;Education Undergraduate;BL-EDUC;Education;Senior;Full time;female;In State
+9999278;Navarro;Joan;D;English -GrSch;BL-ENG;English;Masters;Full time;female;Intl
+9999279;Koga;Risae;;Arts & Sciences Undergrad;BL-FINA;Fine Arts;Senior;Full time;female;In State
+9999280;Rold�n Jasso;Loreta;;Continuing Stdy Undergrad;BL-SCS;School Of Continuing;Senior;Full time;female;Out of State
+9999281;Tseng;Xia;;Optometry Professional;BL-OPT;Optometry;Professional Fourth ;Full time;female;In State
+9999282;T'an;Xin Qian;;University Div Pre-CollAr;BL-TELC;Telecommunications;Sophomore;Full time;female;In State
+9999283;Kirkendall;Scott;D;Education -GrSch;BL-EDUC;Education;Doctorate;Part time;male;Intl
+9999284;Sikes;Annabell;;Library & Info Sci Gradua;BL-SLIS;Library & Informatio;Masters;Full time;female;Intl
+9999285;Sanders;Sarah;R;Arts & Sciences Undergrad;BL-CHEM;Chemistry;Senior;Full time;female;Intl
+9999286;Rice;Richard;M;MBA Program;BL-BUS;Business;Masters;Full time;male;Intl
+9999287;Martin;Russell;R;Folklore -GrSch;BL-FOLK;Folklore;Doctorate;Part time;male;Intl
+9999288;Jordan;Mary;R;Education Undergraduate;BL-EDUC;Education;Senior;Full time;female;Intl
+9999289;Mcwhorter;Tommy;C;Arts & Sciences Undergrad;BL-TELC;Telecommunications;Senior;Full time;male;Intl
+9999290;Tada;Kahoru;;Business Undergraduate;BL-BUS;Business;Senior;Full time;female;In State
+9999291;Edwards;Rose;E;Arts & Sciences Undergrad;BL-CJUS;Criminal Justice-Coa;Senior;Full time;female;Intl
+9999292;Hsia;Dewei;;Journalism Undergraduate;BL-JOUR;Journalism;Junior;Full time;male;In State
+9999293;Kitano;Natsuyo;;Education -GrSch;BL-EDUC;Education;Doctorate;Full time;female;In State
+9999294;Kubo;Sayo;;Computer Science -GrSch;BL-CSCI;Computer Science;Doctorate;Full time;female;In State
+9999295;Kurata;Chihoko;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;In State
+9999296;Inglis;Maurice;A;Business Undergraduate;BL-BUS;Business;Sophomore;Full time;male;Intl
+9999297;Aoki;Fuyuka;;Arts & Sciences Undergrad;BL-PSY;Psychology;Senior;Part time;female;In State
+9999298;Yen;Ning;;Comparative Literature  -;BL-CMLT;Comparative Literatu;Doctorate;Part time;male;In State
+9999299;Tanikawa;Shigeki;;Arts & Sciences Undergrad;BL-ECON;Economics;Junior;Full time;male;In State
+9999300;Murai;Ryuuji;;Arts & Sciences Undergrad;BL-POLS;Political Science;Senior;Full time;male;In State
+9999301;Mori;Sonoko;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;In State
+9999302;Araki;Kazuho;;University Div Pre-Educat;BL-EDUC;Education;Junior;Full time;male;In State
+9999303;Miyazaki;Shiori;;Education -GrSch;BL-EDUC;Education;Doctorate;Full time;female;In State
+9999304;Uchiumi;Engo;;Arts & Sciences Undergrad;BL-HIST;History;Junior;Full time;male;In State
+9999305;Takeda;Ichirou;;Arts & Sciences Undergrad;BL-ENG;English;Sophomore;Part time;male;In State
+9999306;Webb;Sharon;D;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Sophomore;Full time;female;Intl
+9999307;Arakaki;Sachiko;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;In State
+9999308;Miki;Aiya;;Arts & Sciences Undergrad;BL-HIST;History;Junior;Full time;male;In State
+9999309;Yuan;Yuan;;University Div Pre-Busine;BL-BUS;Business;Freshman;Full time;female;In State
+9999310;Kojima;Kiyo;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Junior;Full time;female;In State
+9999311;Wakabayashi;Ikuya;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Junior;Full time;male;In State
+9999312;Fukumoto;Misayo;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;In State
+9999313;Cerda Laboy;Matthew;;Education Undergraduate;BL-EDUC;Education;Senior;Full time;male;Out of State
+9999314;Pacheco Laboy;Carissa;;University Div Undergradu;BL-UDIV;University Division;Sophomore;Full time;female;Out of State
+9999315;Y�an;Xia He;;University Div Pre-Educat;BL-EDUC;Education;Sophomore;Full time;female;In State
+9999316;Shih;Jing;;Music Undergraduate;BL-MUS;Music;Associate Sophomore;Full time;female;In State
+9999317;Liang;Lin;;Political Science -GrSch;BL-POLS;Political Science;Doctorate;Full time;female;In State
+9999318;Shih;Sying;;Arts & Sciences Undergrad;BL-CHEM;Chemistry;Junior;Full time;male;In State
+9999319;Cloutier;Martha;C;University Div Pre-CollAr;BL-SPAN;Spanish;Sophomore;Full time;female;Intl
+9999320;Carney;Joseph;A;Folklore -GrSch;BL-FOLK;Folklore;Doctorate;Part time;male;Intl
+9999321;Hughes;Chase;R;Music Undergraduate;BL-MUS;Music;Junior;Full time;male;Intl
+9999322;Castro;Ellen;J;Arts & Sciences Undergrad;BL-BI;Biology;Senior;Part time;female;Intl
+9999323;Gonz�lez Lebr�n;Abner;;Arts & Sciences Undergrad;BL-TELC;Telecommunications;Senior;Full time;male;Out of State
+9999324;Hannon;Natalie;A;University Div Undergradu;BL-UDIV;University Division;Freshman;Part time;female;Intl
+9999325;Phelps;Leon;N;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Intl
+9999326;Ko;Hsin;;Education Undergraduate;BL-EDUC;Education;Junior;Full time;male;In State
+9999327;Sung;Bo;;Law Professional;BL-LAWS;Law;Professional Fourth ;Full time;female;In State
+9999328;Tseng;Ju;;Arts & Sciences Undergrad;BL-ENG;English;Junior;Full time;female;In State
+9999329;P'an;Cai;;MBA Program;BL-BUS;Business;Masters;Full time;female;In State
+9999330;Creager;Margaret;W;Education Undergraduate;BL-EDUC;Education;Senior;Full time;female;Intl
+9999331;Gulbranson;Daniel;K;Business Undergraduate;BL-BUS;Business;Junior;Full time;male;Intl
+9999332;Carrera Linares;Gladys;;Arts & Sciences Undergrad;BL-CJUS;Criminal Justice-Coa;Senior;Full time;female;Out of State
+9999333;Lemaire;Lawrence;J;University Div Pre-CollAr;BL-CMCL;Communication & Cult;Sophomore;Full time;male;Intl
+9999334;Parker;Beverly;C;Business Undergraduate;BL-BUS;Business;Senior;Full time;female;Intl
+9999335;Masters;Mercedes;A;Arts & Sciences Undergrad;BL-CJUS;Criminal Justice-Coa;Junior;Full time;female;Intl
+9999336;Marshall;Cornelia;J;Arts & Sciences Undergrad;BL-BI;Biology;Senior;Full time;female;Intl
+9999337;Guti�rrez Luna;Filebert;;Education Undergraduate;BL-EDUC;Education;Senior;Full time;male;Out of State
+9999338;Hung;Heng;;Education Undergraduate;BL-EDUC;Education;Junior;Full time;female;In State
+9999339;Tsai;Li;;University Div Pre-Journa;BL-JOUR;Journalism;Sophomore;Full time;female;In State
+9999340;Liao;On;;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Junior;Full time;male;In State
+9999341;Nishizawa;Kyouka;;Pub & Envir Aff Graduate;BL-SPEA;Public And Envir Aff;Masters;Full time;female;In State
+9999342;Masuda;Shigeko;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;female;In State
+9999343;Kitajima;Ikuo;;Arts & Sciences Undergrad;BL-AMID;Apparel Merch/Int De;Senior;Full time;male;In State
+9999344;Mateo Maldonado;Rosamunda;;Arts & Sciences Undergrad;BL-HIST;History;Junior;Full time;female;Out of State
+9999345;Amaya Maldonado;Ama;;University Div Pre-CollAr;BL-TELC;Telecommunications;Sophomore;Full time;female;Out of State
+9999346;Norman;Charles;T;Arts & Sciences Undergrad;BL-CLAS;Classical Studies;Sophomore;Full time;male;Intl
+9999347;Yeh;Xiong;;Business Undergraduate;BL-BUS;Business;Junior;Full time;male;In State
+9999348;Carter;David;L;Music Graduate;BL-MUS;Music;Masters;Full time;male;Intl
+9999349;Rivera;Geneva;L;Arts & Sciences Undergrad;BL-PHIL;Philosophy;Senior;Full time;female;Intl
+9999350;Stewart;Lila;G;Arts & Sciences Undergrad;BL-PSY;Psychology;Sophomore;Full time;female;Intl
+9999351;Ur�as Marrero;Glauc;;Arts & Sciences Undergrad;BL-SOC;Sociology;Junior;Full time;male;Out of State
+9999352;Sroka;Shirley;;Near Eastern Lang & Cult-;BL-NELC;Near Eastern Lang & ;Masters;Full time;female;Intl
+9999353;Hamasaki;Keiji;;University Div Pre-Busine;BL-BUS;Business;Sophomore;Full time;male;In State
+9999354;Ouchi;Fumiko;;Business Undergraduate;BL-BUS;Business;Senior;Full time;female;In State
+9999355;Fukumoto;Yoshikazu;;Arts & Sciences Undergrad;BL-BI;Biology;Junior;Full time;male;In State
+9999356;Christman;Richard;L;Arts & Sciences Undergrad;BL-POLS;Political Science;Junior;Full time;male;Intl
+9999357;Morrison;Douglas;;Arts & Sciences Undergrad;BL-CHEM;Chemistry;Senior;Full time;male;Intl
+9999358;Howell;Frank;K;Arts & Sciences Undergrad;BL-BI;Biology;Sophomore;Full time;male;Intl
+9999359;Trevino;Paul;;University Div Pre-CollAr;BL-PSY;Psychology;Sophomore;Full time;male;Intl
+9999360;Ulibarri Mej�a;Incul;;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;Out of State
+9999361;Ootsuki;Jinya;;Business Undergraduate;BL-BUS;Business;Senior;Full time;male;In State
+9999362;Richard;Dave;J;Arts & Sciences Undergrad;BL-POLS;Political Science;Senior;Part time;male;Intl
+9999363;Spencer;Gerald;T;Arts & Sciences Undergrad;BL-BI;Biology;Senior;Full time;male;Intl
+9999364;Parker;Octavia;D;Education Undergraduate;BL-EDUC;Education;Senior;Full time;female;Intl
+9999365;Sauceda Miramontes;Erico;;Arts & Sciences Undergrad;BL-FINA;Fine Arts;Senior;Part time;male;Out of State
+9999366;Shinoda;Kiyoteru;;Arts & Sciences Undergrad;BL-ECON;Economics;Junior;Full time;male;In State
+9999367;Gotou;Hiroyuki;;Pub & Envir Aff Undergrad;BL-SPEA;Public And Envir Aff;Junior;Full time;male;In State
+9999368;Tokunaga;Fuyuki;;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Sophomore;Full time;male;In State
+9999369;Maeda;Takeki;;Arts & Sciences Undergrad;BL-BI;Biology;Junior;Full time;male;In State
+9999370;Hoshi;Mikako;;Arts & Sciences Undergrad;BL-FINA;Fine Arts;Senior;Full time;female;In State
+9999371;Longoria Molina;Aline;;Pub & Envir Aff Undergrad;BL-SPEA;Public And Envir Aff;Junior;Full time;female;Out of State
+9999372;Galv�n Montemayor;Landolfo;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;male;Out of State
+9999373;Vallejo Mora;Odila;;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Sophomore;Full time;female;Out of State
+9999374;Boren;Ethel;D;Arts & Sciences Undergrad;BL-PSY;Psychology;Sophomore;Full time;female;Intl
+9999375;Miyamoto;Ayae;;University Div Pre-CollAr;BL-CJUS;Criminal Justice-Coa;Sophomore;Full time;female;In State
+9999376;Kitahara;Yoshihiro;;University Div Pre-SPEA;BL-SPEA;Public And Envir Aff;Sophomore;Full time;male;In State
+9999377;Nelson;Betsy;L;Education Undergraduate;BL-EDUC;Education;Junior;Full time;female;Intl
+9999378;Gonzales;Lucille;H;Arts & Sciences Undergrad;BL-PSY;Psychology;Junior;Full time;female;Intl
+9999379;Katagiri;Shiemi;;University Div Pre-CollAr;BL-CHEM;Chemistry;Sophomore;Part time;female;In State
+9999380;Mckinney;Byron;J;Education Undergraduate;BL-EDUC;Education;Senior;Full time;male;Intl
+9999381;Saavedra Mu�oz;Mirta;;Education Undergraduate;BL-EDUC;Education;Junior;Full time;female;Out of State
+9999382;Okada;Tsuguto;;Business Undergraduate;BL-BUS;Business;Junior;Full time;male;In State
+9999383;Montanez Murillo;Mariana;;University Div Pre-HPER;BL-HPER;Health, Phys Ed, & R;Junior;Full time;female;Out of State
+9999384;David;Matthew;;Health, PE & Rec Undergra;BL-HPER;Health, Phys Ed, & R;Senior;Full time;male;Intl
+9999385;Fukuoka;Kii;;Music Grad -GrSchool;BL-MUS;Music;Doctorate;Full time;male;In State
+9999386;Nishi;Nonoe;;Arts & Sciences Undergrad;BL-POLS;Political Science;Senior;Full time;female;In State
+9999387;Shikikawa;Mugito;;Arts & Sciences Undergrad;BL-REL;Religious Studies;Senior;Full time;male;In State
