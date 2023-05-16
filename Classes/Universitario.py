@@ -74,10 +74,10 @@ class Universitario():
         if u:
             u = u[0]
             
-            print(f">>>Id: {u.id} - Nome: {u.nome} Apelido: {u.apelido}!")
-            print(f">>>Programa: {u.programa} - CodProg: {u.codprog} Curso: {u.curso}!")
-            print(f">>>Classe: {u.classe} - FT/PT: {u.ftpt} Sexo: {u.sexo}!")
-            print(f">>>Residência: {u.residencia}!")
+            print(f">>>Id: {u.id} - Nome: {u.nome} Apelido: {u.apelido}")
+            print(f">>>Programa: {u.programa} - CodProg: {u.codprog} Curso: {u.curso}")
+            print(f">>>Classe: {u.classe} - FT/PT: {u.ftpt} Sexo: {u.sexo}")
+            print(f">>>Residência: {u.residencia}")
             
         else:
             print(f">>>Id não encontrado!")
@@ -91,6 +91,14 @@ class Universitario():
 
         if u:
             u = u[0]
+
+            print("**********************************************************************")
+            print(f">>>Id: {u.id} - Nome: {u.nome} Apelido: {u.apelido}")
+            print(f">>>Programa: {u.programa} - CodProg: {u.codprog} Curso: {u.curso}")
+            print(f">>>Classe: {u.classe} - FT/PT: {u.ftpt} Sexo: {u.sexo}")
+            print(f">>>Residência: {u.residencia}")
+            print("**********************************************************************")
+
             u.apelido = input("Apelido: ")
             u.nome = input("Nome: ")
             u.programa = input("Programa: ")
@@ -115,7 +123,7 @@ class Universitario():
             lastId = max(aluno.id for aluno in matriz)
 
             universitario = Universitario()
-            universitario.id = int(lastId)+1
+            universitario.id = str(int(lastId)+1)
             universitario.apelido = u.apelido
             universitario.nome = u.nome
             universitario.programa = u.programa
@@ -132,5 +140,18 @@ class Universitario():
             
         else:
             print(f">>>Id não encontrado!")
+
+        time.sleep(2.5)
+
+    def listar(matriz):
+        print("\nListagem:")
+
+        for u in matriz:
+            print("**********************************************************************")
+            print(f">>>Id: {u.id} - Nome: {u.nome} Apelido: {u.apelido}")
+            print(f">>>Programa: {u.programa} - CodProg: {u.codprog} Curso: {u.curso}")
+            print(f">>>Classe: {u.classe} - FT/PT: {u.ftpt} Sexo: {u.sexo}")
+            print(f">>>Residência: {u.residencia}")
+        print("**********************************************************************")
 
         time.sleep(2.5)

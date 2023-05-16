@@ -2,7 +2,7 @@ from Universitario import Universitario
 import os
 
 def CarregarFicheiro(matriz):
-    fich = open(r"C:\\Users\\m89501426\\OneDrive - Crédito Agrícola\\Desktop\\Dual\\Classes\\Universitarios.csv", mode="r", encoding="utf-8")
+    fich = open(r"C:\\Users\\m89501426\\OneDrive - Crédito Agrícola\\Desktop\\Dual\\Dual-Python\\Classes\\Universitarios.csv", mode="r", encoding="utf-8")
     linhas = fich.readlines()
     fich.close()
     for linha in linhas[1:]:
@@ -52,6 +52,7 @@ def Main():
                 Universitario.clonar(Alunos)
             case "7":
                 print("7 - Listar Registros")
+                Universitario.listar(Alunos)
             case "8":
                 print("8 - Exportação de Registros para csv")
             case _:
