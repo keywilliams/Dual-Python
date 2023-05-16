@@ -10,7 +10,7 @@ body = '{"model":"gpt-3.5-turbo","messages": [{"role": "user","content": "'+b+'"
 body = str.encode(body)
 
 req = Request(site, data=body)
-req.add_header('Authorization','Bearer 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')
+req.add_header('Authorization','Bearer apiKey')
 req.add_header('Content-Type','application/json')
 response = urlopen(req).read()
 response = response.decode()
