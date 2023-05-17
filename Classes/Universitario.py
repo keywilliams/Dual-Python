@@ -64,7 +64,7 @@ class Universitario():
         else:
             print(f">>>ID não encontrado!")
 
-        time.sleep(2.5)
+        input(">>> Prima enter para continuar")
     
     def visualizar(matriz):
         cod = input("\nCodigo do aluno a visualizar:")
@@ -82,7 +82,7 @@ class Universitario():
         else:
             print(f">>>Id não encontrado!")
 
-        time.sleep(2.5)
+        input(">>> Prima enter para continuar")
     
     def alterar(matriz):
         cod = input("\nCodigo do aluno a alterar:")
@@ -112,7 +112,7 @@ class Universitario():
         else:
             print(f">>>Id não encontrado!")
 
-        time.sleep(2.5)
+        input(">>> Prima enter para continuar")
     
     def clonar(matriz):
         cod = input("\nCodigo do aluno a clonar:")
@@ -141,7 +141,7 @@ class Universitario():
         else:
             print(f">>>Id não encontrado!")
 
-        time.sleep(2.5)
+        input(">>> Prima enter para continuar")
 
     def listar(matriz):
         print("\nListagem:")
@@ -154,4 +154,33 @@ class Universitario():
             print(f">>>Residência: {u.residencia}")
         print("**********************************************************************")
 
-        time.sleep(2.5)
+        input(">>> Prima enter para continuar")
+
+    def procurar(matriz):
+        print("\nBusca:")
+
+        nome = ""
+        buffer= input("Digite o Nome:")
+        if buffer!="":
+          nome = buffer
+
+        apelido = ""
+        buffer = input("Digite o Apelido:")
+        if buffer!="":
+          apelido = buffer
+        
+        byName = [x for x in matriz if nome.upper() in x.nome.upper()]
+
+        result = [x for x in byName if apelido.upper() in x.apelido.upper()]
+
+        print(f"Encontrados: {len(result)}")
+
+        for u in result:
+            print("**********************************************************************")
+            print(f">>>Id: {u.id} - Nome: {u.nome} Apelido: {u.apelido}")
+            print(f">>>Programa: {u.programa} - CodProg: {u.codprog} Curso: {u.curso}")
+            print(f">>>Classe: {u.classe} - FT/PT: {u.ftpt} Sexo: {u.sexo}")
+            print(f">>>Residência: {u.residencia}")
+        print("**********************************************************************")
+
+        input(">>> Prima enter para continuar")

@@ -2,7 +2,7 @@ from Universitario import Universitario
 import os
 
 def CarregarFicheiro(matriz):
-    fich = open(r"C:\\Users\\m89501426\\OneDrive - Crédito Agrícola\\Desktop\\Dual\\Dual-Python\\Classes\\Universitarios.csv", mode="r", encoding="utf-8")
+    fich = open(r"C:\\Projetos GIT\\Dual-Python\\Classes\\Universitarios.csv", mode="r", encoding="utf-8")
     linhas = fich.readlines()
     fich.close()
     for linha in linhas[1:]:
@@ -41,6 +41,7 @@ def Main():
                 Universitario.alterar(Alunos)
             case "3":
                 print("3 - Procura de Registros")
+                Universitario.procurar(Alunos)
             case "4":
                 print("4 - Visualização de Registros")
                 Universitario.visualizar(Alunos)
